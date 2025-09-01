@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env
+.venv/
+state.json
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# Packaging / build
+dist/
+build/
+*.egg-info/
+
+# Optional - test artifacts
+.coverage
+.pytest_cache/
