@@ -1,2 +1,2 @@
 # matcha monitor
-a tool Im working on to notify users when matcha products restock
+a tool im working on to notify users when matcha products restock
